@@ -7,3 +7,10 @@ div{
 body{
 background-color:#ff3d3d ;
 }
+.pc{
+    text-align: center;
+    size: 300vh;
+}
+.nav{
+    background-color: #cad627
+}
