@@ -1,16 +1,37 @@
-div{
+.divindex{
     background-color:#18e9b1 ;
 
     text-align: center;
     border-radius: 999px;
 }
-body{
+.bodyindex{
 background-color:#ff3d3d ;
+font-family: monospace;
 }
+
 .pc{
     text-align: center;
     size: 300vh;
 }
 .nav{
     background-color: #cad627
+}
+.img{
+    image-orientation: 20deg;
+    image-resolution: 9999999;
+    text-align: center;
+}
+
+.presents{
+    background-color: crimson;
+}
+
+.bodygifts{
+    font-family: monospace;
+    background-color: crimson;
+}
+
+.bodyschedule{
+    background-image: url(homepagebackground.jpg);
+    font-family: monospace;
 }
